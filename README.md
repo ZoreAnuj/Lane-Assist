@@ -45,19 +45,8 @@ The images shown below is the result of vehicle trajectory(MPC, Stanley and Pure
 
 The green line is the track(ground truth) and the orange line is the trajectory.
 
-<p align="center"><b>MPC Method</b></p>
-<p align="center">
-  <img  src="controller_output/trajectory_MPC.png">
-</p>
+![trajectory_MPC](https://github.com/ZoreAnuj/Lane-Assist/assets/95142805/d9cd1a8b-0e11-43f3-be39-1a8c247c05cd)
 
-<p align="center"><b>Stanley Method</b></p>
-<p align="center">
-  <img  src="controller_output/trajectory_Stanley.png">
-</p>
+![trajectory_PurePursuit](https://github.com/ZoreAnuj/Lane-Assist/assets/95142805/1a25ba64-4e7f-4f07-a3fa-0fc8ec16b109)
 
-<p align="center"><b>Pure Pursuit Method</b></p>
-<p align="center">
-  <img  src="controller_output/trajectory_PurePursuit.png">
-</p>
-
-
+![trajectory_Stanley](https://github.com/ZoreAnuj/Lane-Assist/assets/95142805/51b99dd8-9f35-4f02-81a7-a1369225c47d)
