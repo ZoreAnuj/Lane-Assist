@@ -1,7 +1,7 @@
 # Lane-Keeping-Assist-on-CARLA
 ## Introduction
 <p align="center">
-  <img  src="controller_output/CARLA.png">
+  <img  src="[controller_output/CARLA.png](https://github.com/ZoreAnuj/Lane-Assist/blob/main/carla.png)">
 </p>
 
 Reference: [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) course of [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars?) on Coursera.org.
